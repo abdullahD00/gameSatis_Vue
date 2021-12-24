@@ -1,0 +1,58 @@
+[
+  {
+    "name": "İlginiziCekebilecekler",
+    "path": "/%C4%B0lginiziCekebilecekler",
+    "component": "C:\\\\Users\\\\abdul\\\\Desktop\\\\WebProgramming\\\\gamesatis_webprogramla\\\\Yeni klasör\\\\gamesatis\\\\pages\\\\İlginiziCekebilecekler.vue",
+    "chunkName": "pages/İlginiziCekebilecekler",
+    "_name": "_778a38d2"
+  },
+  {
+    "name": "Girisyapp",
+    "path": "/Girisyapp",
+    "component": "C:\\\\Users\\\\abdul\\\\Desktop\\\\WebProgramming\\\\gamesatis_webprogramla\\\\Yeni klasör\\\\gamesatis\\\\pages\\\\Girisyapp.vue",
+    "chunkName": "pages/Girisyapp",
+    "_name": "_6fc12a54"
+  },
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "C:\\\\Users\\\\abdul\\\\Desktop\\\\WebProgramming\\\\gamesatis_webprogramla\\\\Yeni klasör\\\\gamesatis\\\\pages\\\\inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_5c8318cc"
+  },
+  {
+    "name": "MainPage",
+    "path": "/MainPage",
+    "component": "C:\\\\Users\\\\abdul\\\\Desktop\\\\WebProgramming\\\\gamesatis_webprogramla\\\\Yeni klasör\\\\gamesatis\\\\pages\\\\MainPage.vue",
+    "chunkName": "pages/MainPage",
+    "_name": "_77764586"
+  },
+  {
+    "name": "Sepet",
+    "path": "/Sepet",
+    "component": "C:\\\\Users\\\\abdul\\\\Desktop\\\\WebProgramming\\\\gamesatis_webprogramla\\\\Yeni klasör\\\\gamesatis\\\\pages\\\\Sepet.vue",
+    "chunkName": "pages/Sepet",
+    "_name": "_b99ea742"
+  },
+  {
+    "name": "Urundetay",
+    "path": "/Urundetay",
+    "component": "C:\\\\Users\\\\abdul\\\\Desktop\\\\WebProgramming\\\\gamesatis_webprogramla\\\\Yeni klasör\\\\gamesatis\\\\pages\\\\Urundetay.vue",
+    "chunkName": "pages/Urundetay",
+    "_name": "_4aaa2927"
+  },
+  {
+    "name": "Uyeol",
+    "path": "/Uyeol",
+    "component": "C:\\\\Users\\\\abdul\\\\Desktop\\\\WebProgramming\\\\gamesatis_webprogramla\\\\Yeni klasör\\\\gamesatis\\\\pages\\\\Uyeol.vue",
+    "chunkName": "pages/Uyeol",
+    "_name": "_97e78ba0"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\abdul\\\\Desktop\\\\WebProgramming\\\\gamesatis_webprogramla\\\\Yeni klasör\\\\gamesatis\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_e52b3d78"
+  }
+]

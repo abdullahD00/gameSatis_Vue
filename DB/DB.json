@@ -1,0 +1,90 @@
+{
+  "product1": [
+    {
+      "id": 1,
+      "name": "PUBG Mobile Royale Pass M4 Proje T",
+      "oldcost": 100,
+      "newcost": 82.5,
+      "urlsrc": "https://images.gamesatis.com/products/images/000/075/088/medium/product-pubgmobile_uc_3000_850.jpg",
+      "ilanno": " #293260",
+      "description": ""
+    }
+  ],
+  "product2": [
+    {
+      "id": 2,
+      "name": "PUBG Mobile Elite Royale Pass M4 Proje T",
+      "oldcost": 250,
+      "newcost": 206.25,
+      "urlsrc": "https://images.gamesatis.com/products/images/000/075/089/medium/product-pubgmobile_uc_6000_2100.jpg",
+      "ilanno": " #317260",
+      "description": ""
+    }
+  ],
+  "product3": [
+    {
+      "id": 3,
+      "name": "Fifa 22 Origin",
+      "oldcost": 502.15,
+      "newcost": 409.8,
+      "urlsrc": "https://images.gamesatis.com/products/images/000/792/338/medium/product_fifa22_standart_origin.jpg",
+      "ilanno": " #259257",
+      "description": ""
+    }
+  ],
+  "product4": [
+    {
+      "id": 4,
+      "name": "100 TL Steam Cüzdan Kodu",
+      "oldcost": 100,
+      "newcost": 97,
+      "urlsrc": "https://images.gamesatis.com/products/images/000/000/061/medium/steam-100-tl.jpg",
+      "ilanno": " #148259",
+      "description": ""
+    }
+  ],
+  "product5": [
+    {
+      "id": 5,
+      "name": "Valorant 300 VP",
+      "oldcost": 19,
+      "newcost": 15.99,
+      "urlsrc": "https://images.gamesatis.com/products/images/000/153/970/medium/Valorant-300-vp.jpg",
+      "ilanno": " #126954",
+      "description": ""
+    }
+  ],
+  "product6": [
+    {
+      "id": 6,
+      "name": "Valorant 600 VP",
+      "oldcost": 38,
+      "newcost": 31.98,
+      "urlsrc": "https://images.gamesatis.com/products/images/000/153/974/medium/Valorant-600-vp.jpg",
+      "ilanno": " #756954",
+      "description": ""
+    }
+  ],
+  "product7": [
+    {
+      "id": 7,
+      "name": "Valorant 1250 VP",
+      "oldcost": 50,
+      "newcost": 41.25,
+      "urlsrc": "https://images.gamesatis.com/products/images/000/153/975/medium/Valorant-1250-vp.jpg",
+      "ilanno": " #753146",
+      "description": ""
+    }
+  ],
+  "product8": [
+    {
+      "id": 8,
+      "name": "Valorant 2500 VP",
+      "oldcost": 149.5,
+      "newcost": 125.85,
+      "urlsrc": "https://images.gamesatis.com/products/images/000/153/976/medium/valorant-2500-vp.jpg",
+      "ilanno": " #821769",
+      "description": ""
+    }
+  ]
+}

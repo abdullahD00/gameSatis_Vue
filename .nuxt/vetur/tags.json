@@ -1,0 +1,35 @@
+{
+  "AppBar": {
+    "description": "Auto imported from components/AppBar.vue"
+  },
+  "AppBarSub": {
+    "description": "Auto imported from components/AppBarSub.vue"
+  },
+  "AppBarSub2": {
+    "description": "Auto imported from components/AppBarSub2.vue"
+  },
+  "AppBarSub3": {
+    "description": "Auto imported from components/AppBarSub3.vue"
+  },
+  "Avatar": {
+    "description": "Auto imported from components/Avatar.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Menu": {
+    "description": "Auto imported from components/Menu.vue"
+  },
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "Sheets": {
+    "description": "Auto imported from components/Sheets.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  },
+  "VuetifyLogo": {
+    "description": "Auto imported from components/VuetifyLogo.vue"
+  }
+}
